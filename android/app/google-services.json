@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464194815525",
+    "project_id": "calc-history-database",
+    "storage_bucket": "calc-history-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464194815525:android:12e921d3aee51809b461cc",
+        "android_client_info": {
+          "package_name": "com.example.calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464194815525-cfmi25gidjmm28malei5p8m3hscflgs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZKcCfDMinMY89KHZ2GGc3SA41BC9wceE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464194815525-cfmi25gidjmm28malei5p8m3hscflgs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
